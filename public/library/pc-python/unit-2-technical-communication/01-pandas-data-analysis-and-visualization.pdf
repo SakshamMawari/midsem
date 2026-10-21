@@ -1,0 +1,117 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 1485 >>
+stream
+0.08 0.08 0.1 rg
+40 710 532 50 re f
+BT
+/F2 16 Tf
+1 1 1 rg
+55 730 Td
+(Pandas Data Analysis & Matplotlib Visualization) Tj
+ET
+BT
+/F1 9 Tf
+0.6 0.6 0.7 rg
+55 718 Td
+(Python  •  Unit 2: Data Analysis & Visualization  •  Study Notes) Tj
+ET
+BT
+/F1 11 Tf
+0.2 0.2 0.25 rg
+50 675 Td
+(DataFrame operations, group-by aggregations, time series, and plotting.) Tj
+ET
+0.8 0.8 0.85 RG
+1 w
+50 655 m 562 655 l S
+BT
+/F2 12 Tf
+0.1 0.12 0.2 rg
+50 625 Td
+(1. Pandas Data Wrangling) Tj
+ET
+BT
+/F1 10 Tf
+0.25 0.25 0.3 rg
+65 607 Td
+(\225  Series and DataFrame indexing: loc vs iloc label/integer positional access.) Tj
+ET
+BT
+/F1 10 Tf
+0.25 0.25 0.3 rg
+65 591 Td
+(\225  Handling missing values: isna, fillna, dropna, and interpolation strategies.) Tj
+ET
+BT
+/F1 10 Tf
+0.25 0.25 0.3 rg
+65 575 Td
+(\225  Split-Apply-Combine paradigm with groupby and custom aggregation functions.) Tj
+ET
+BT
+/F2 12 Tf
+0.1 0.12 0.2 rg
+50 545 Td
+(2. Visualization with Matplotlib & Seaborn) Tj
+ET
+BT
+/F1 10 Tf
+0.25 0.25 0.3 rg
+65 527 Td
+(\225  Figure and Axes object-oriented interface in Matplotlib.) Tj
+ET
+BT
+/F1 10 Tf
+0.25 0.25 0.3 rg
+65 511 Td
+(\225  Plotting statistical distributions: histograms, KDE plots, and boxplots.) Tj
+ET
+BT
+/F1 10 Tf
+0.25 0.25 0.3 rg
+65 495 Td
+(\225  Exporting publication-ready vector charts and heatmaps with colorbars.) Tj
+ET
+0.85 0.85 0.9 RG
+0.5 w
+50 50 m 562 50 l S
+BT
+/F1 8 Tf
+0.5 0.5 0.6 rg
+50 38 Td
+(Digital Study Library  |  Page 1 of 1  |  All materials for academic study purposes.) Tj
+ET
+
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000257 00000 n 
+0000000327 00000 n 
+0000000402 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1935
+%%EOF

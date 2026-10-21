@@ -1,0 +1,10 @@
+{
+  "code": "SP",
+  "name": "Signal Processing & Systems",
+  "altName": "Digital Signal Processing",
+  "branches": ["CSE"],
+  "description": "Continuous and discrete-time signals, LTI systems, Fourier transform, Z-transform, and digital filter design.",
+  "examDate": "29.10.2026",
+  "examTime": "02:00 PM – 04:00 PM",
+  "order": 4
+}

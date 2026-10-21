@@ -1,0 +1,34 @@
+{
+  "name": "Unit 1: Vector Spaces & Subspaces",
+  "description": "Vector spaces, subspace axioms, linear combinations, spanning sets, and linear independence.",
+  "order": 1,
+  "fileOrder": [
+    "vector spaces lecture notes.pdf",
+    "sub space.pdf",
+    "Scan documents20260909_085612.pdf",
+    "Maths notes 2 (2).pdf",
+    "New Doc 08-04-2025 09.53 (1).pdf"
+  ],
+  "documents": {
+    "vector spaces lecture notes.pdf": {
+      "title": "Vector Spaces - Official Lecture Notes",
+      "description": "Comprehensive theory covering vector space axioms, closure properties, and proof structures."
+    },
+    "sub space.pdf": {
+      "title": "Subspaces - Theorems & Criteria",
+      "description": "Definitions of subspaces, 3-point criterion, linear closure, and geometric interpretation."
+    },
+    "Scan documents20260909_085612.pdf": {
+      "title": "Classroom Scanned Notes & Problem Solutions",
+      "description": "Original classroom whiteboard scans and step-by-step problem derivations."
+    },
+    "Maths notes 2 (2).pdf": {
+      "title": "Vector Spaces & Linear Maps - Part 2 Notes",
+      "description": "Extended class notes covering basis, dimension, and linear transformations."
+    },
+    "New Doc 08-04-2025 09.53 (1).pdf": {
+      "title": "Vector Spaces & Applications Study Doc",
+      "description": "Additional handwritten notes and worked-out examples for mid-sem revision."
+    }
+  }
+}

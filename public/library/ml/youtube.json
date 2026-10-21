@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ml-statquest",
+    "title": "Machine Learning Fundamentals - StatQuest with Josh Starmer",
+    "url": "https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF",
+    "channel": "StatQuest",
+    "description": "Step-by-step visual explanations of Linear Regression, Logistic Regression, Gradient Descent, and SVMs."
+  },
+  {
+    "id": "ml-andrew-ng",
+    "title": "Stanford CS229: Machine Learning - Andrew Ng",
+    "url": "https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU",
+    "channel": "Stanford Online",
+    "description": "The gold-standard rigorous mathematical derivation of ML loss functions, convex optimization, and learning theory."
+  }
+]

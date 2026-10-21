@@ -1,0 +1,1245 @@
+{
+  "subjects": [
+    {
+      "id": "dm-dv",
+      "slug": "dm-dv",
+      "name": "Data Mining & Visualization",
+      "code": "DMV",
+      "branches": [
+        "DSA",
+        "AI & IT"
+      ],
+      "altName": "Enterprise Java / Data Mining and Visualization",
+      "description": "Data preprocessing, pattern evaluation, clustering, classification algorithms, and interactive visual data representations.",
+      "examDate": "26.10.2026",
+      "examTime": "02:00 PM – 04:00 PM",
+      "order": 1,
+      "units": [
+        {
+          "id": "unit-1",
+          "slug": "unit-1",
+          "name": "Unit 1: Data Mining & Visualization Foundations",
+          "description": "Introduction to data mining techniques, architecture, preprocessing, and exploratory visualization methods.",
+          "order": 1,
+          "files": [
+            {
+              "id": "unit-1-data-mining-and-visualization",
+              "name": "Unit_1_Data_Mining_and_Visualization",
+              "title": "Unit 1 - Data Mining and Visualization Lecture Notes",
+              "slug": "unit-1-data-mining-and-visualization",
+              "path": "/library/dm-dv/unit-1/Unit_1_Data_Mining_and_Visualization.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/dm-dv/unit-1/Unit_1_Data_Mining_and_Visualization.pdf",
+              "sizeMb": 0.68,
+              "sizeFormatted": "700 KB",
+              "pageCount": 73,
+              "description": "Comprehensive reference document covering data mining concepts, pipelines, and visual analytics."
+            }
+          ],
+          "documents": [
+            {
+              "id": "unit-1-data-mining-and-visualization",
+              "name": "Unit_1_Data_Mining_and_Visualization",
+              "title": "Unit 1 - Data Mining and Visualization Lecture Notes",
+              "slug": "unit-1-data-mining-and-visualization",
+              "path": "/library/dm-dv/unit-1/Unit_1_Data_Mining_and_Visualization.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/dm-dv/unit-1/Unit_1_Data_Mining_and_Visualization.pdf",
+              "sizeMb": 0.68,
+              "sizeFormatted": "700 KB",
+              "pageCount": 73,
+              "description": "Comprehensive reference document covering data mining concepts, pipelines, and visual analytics."
+            }
+          ]
+        },
+        {
+          "id": "unit-2-3",
+          "slug": "unit-2-3",
+          "name": "Unit 2 & 3: Association Rules & Advanced Mining",
+          "description": "Frequent pattern mining, Apriori algorithm, FP-Growth, clustering algorithms, and multidimensional visualization.",
+          "order": 2,
+          "files": [
+            {
+              "id": "chapter-2-and-3",
+              "name": "Chapter 2 and 3",
+              "title": "Chapter 2 & 3 - Association Analysis and Cluster Models",
+              "slug": "chapter-2-and-3",
+              "path": "/library/dm-dv/unit-2-3/Chapter%202%20and%203.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/dm-dv/unit-2-3/Chapter%202%20and%203.pdf",
+              "sizeMb": 0.82,
+              "sizeFormatted": "842 KB",
+              "pageCount": 73,
+              "description": "Lecture slides and chapter textbook notes for units 2 and 3."
+            }
+          ],
+          "documents": [
+            {
+              "id": "chapter-2-and-3",
+              "name": "Chapter 2 and 3",
+              "title": "Chapter 2 & 3 - Association Analysis and Cluster Models",
+              "slug": "chapter-2-and-3",
+              "path": "/library/dm-dv/unit-2-3/Chapter%202%20and%203.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/dm-dv/unit-2-3/Chapter%202%20and%203.pdf",
+              "sizeMb": 0.82,
+              "sizeFormatted": "842 KB",
+              "pageCount": 73,
+              "description": "Lecture slides and chapter textbook notes for units 2 and 3."
+            }
+          ]
+        }
+      ],
+      "youtubeLinks": [
+        {
+          "id": "dmdv-gate-smashers",
+          "title": "Data Mining Complete Playlist - Gate Smashers",
+          "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiGSbI4c1fC8g-jWvNrnVl1-",
+          "channel": "Gate Smashers",
+          "description": "Clear conceptual explanations of Data Preprocessing, Apriori Algorithm, FP-Tree, and clustering."
+        },
+        {
+          "id": "dmdv-nptel",
+          "title": "NPTEL: Data Mining & Knowledge Discovery",
+          "url": "https://www.youtube.com/playlist?list=PLbMVogVj5nJS9S_jF_r4gWq3WlE7j2Gz4",
+          "channel": "NPTEL / IIT Kharagpur",
+          "description": "In-depth university curriculum covering association rule mining, decision trees, and cluster analysis."
+        }
+      ],
+      "syllabus": {
+        "courseCode": "DMV",
+        "courseTitle": "Data Mining & Visualization",
+        "credits": "3-0-2",
+        "examPattern": "Mid-Sem: 2 Hours (30 Marks) | End-Sem: 3 Hours (50 Marks) | Lab: 20 Marks",
+        "units": [
+          {
+            "unit": "Unit 1",
+            "title": "Data Mining Fundamentals & Preprocessing",
+            "topics": [
+              "Data Mining Architecture, Knowledge Discovery in Databases (KDD) Process",
+              "Data Cleaning: Handling Missing Values, Noisy Data, and Outlier Analysis",
+              "Data Integration, Transformation: Min-Max Normalization, Z-score, and Decimal Scaling",
+              "Data Reduction: Principal Component Analysis (PCA), Wavelet Transform, and Sampling",
+              "Exploratory Visual Data Analytics: Scatter Plots, Box Plots, and Parallel Coordinates"
+            ]
+          },
+          {
+            "unit": "Unit 2",
+            "title": "Association Rule Mining & Pattern Discovery",
+            "topics": [
+              "Market Basket Analysis: Support, Confidence, and Lift Metrics",
+              "Apriori Algorithm: Candidate Generation, Pruning, and Efficiency Enhancements",
+              "FP-Growth Algorithm: Construction of Frequent Pattern Tree and Conditional Pattern Bases",
+              "Mining Multilevel and Multidimensional Association Rules",
+              "Constraint-Based Rule Mining"
+            ]
+          },
+          {
+            "unit": "Unit 3",
+            "title": "Cluster Analysis & Advanced Data Visualization",
+            "topics": [
+              "Partitioning Methods: K-Means, K-Medoids (PAM), and CLARA",
+              "Hierarchical Methods: Agglomerative vs Divisive, BIRCH, and ROCK",
+              "Density-Based Methods: DBSCAN and OPTICS",
+              "Cluster Validation Metrics: Silhouette Coefficient and Davies-Bouldin Index",
+              "Interactive Dashboards, D3.js Visual Pipelines, and Multidimensional Mapping"
+            ]
+          }
+        ],
+        "textbooks": [
+          "Jiawei Han, Micheline Kamber, Jian Pei, 'Data Mining: Concepts and Techniques', 3rd Edition, Morgan Kaufmann",
+          "Tamara Munzner, 'Visualization Analysis and Design', CRC Press"
+        ],
+        "references": [
+          "Pang-Ning Tan, Michael Steinbach, Vipin Kumar, 'Introduction to Data Mining', Pearson",
+          "Colin Ware, 'Information Visualization: Perception for Design', Morgan Kaufmann"
+        ]
+      }
+    },
+    {
+      "id": "enterprise-java",
+      "slug": "enterprise-java",
+      "name": "Enterprise Java",
+      "code": "EJ",
+      "branches": [
+        "CSE"
+      ],
+      "altName": "Enterprise Java Architecture & J2EE",
+      "description": "Enterprise Java Beans, Spring framework, servlets, microservices, and distributed backend systems.",
+      "examDate": "26.10.2026",
+      "examTime": "02:00 PM – 04:00 PM",
+      "order": 1,
+      "units": [
+        {
+          "id": "unit-1-j2ee-architecture",
+          "slug": "unit-1-j2ee-architecture",
+          "name": "Unit 1: J2EE Architecture & Servlets",
+          "description": "Multi-tier enterprise architecture, Servlet lifecycle, HTTP session management, and JSP fundamentals.",
+          "order": 1,
+          "files": [],
+          "documents": []
+        }
+      ],
+      "youtubeLinks": []
+    },
+    {
+      "id": "is-crypto",
+      "slug": "is-crypto",
+      "name": "Cryptography",
+      "code": "CRYPTO",
+      "branches": [
+        "DSA",
+        "CSE",
+        "AI & IT"
+      ],
+      "altName": "Cryptography / Information Security",
+      "description": "Security principles, classical and modern ciphers (DES/AES), public-key cryptography (RSA), hash functions, and authentication.",
+      "examDate": "27.10.2026",
+      "examTime": "02:00 PM – 04:00 PM",
+      "order": 2,
+      "units": [
+        {
+          "id": "unit-1-cryptography-foundations",
+          "slug": "unit-1-cryptography-foundations",
+          "name": "Unit 1: Classical Cryptography & Ciphers",
+          "description": "Security attacks, services and mechanisms, substitution and transposition ciphers, modular arithmetic, and cryptanalysis.",
+          "order": 1,
+          "files": [
+            {
+              "id": "introduction-to-cryptography-detailed-notes",
+              "name": "Introduction to Cryptography Detailed Notes",
+              "title": "Introduction To Cryptography Detailed Notes",
+              "slug": "introduction-to-cryptography-detailed-notes",
+              "path": "/library/is-crypto/unit-1-cryptography-foundations/Introduction%20to%20Cryptography%20Detailed%20Notes.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/is-crypto/unit-1-cryptography-foundations/Introduction%20to%20Cryptography%20Detailed%20Notes.pdf",
+              "sizeMb": 0.23,
+              "sizeFormatted": "240 KB",
+              "pageCount": 13
+            }
+          ],
+          "documents": [
+            {
+              "id": "introduction-to-cryptography-detailed-notes",
+              "name": "Introduction to Cryptography Detailed Notes",
+              "title": "Introduction To Cryptography Detailed Notes",
+              "slug": "introduction-to-cryptography-detailed-notes",
+              "path": "/library/is-crypto/unit-1-cryptography-foundations/Introduction%20to%20Cryptography%20Detailed%20Notes.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/is-crypto/unit-1-cryptography-foundations/Introduction%20to%20Cryptography%20Detailed%20Notes.pdf",
+              "sizeMb": 0.23,
+              "sizeFormatted": "240 KB",
+              "pageCount": 13
+            }
+          ]
+        },
+        {
+          "id": "unit-2-symmetric-asymmetric-encryption",
+          "slug": "unit-2-symmetric-asymmetric-encryption",
+          "name": "Unit 2: Symmetric & Asymmetric Encryption",
+          "description": "Block ciphers, DES, 3DES, AES architecture, Feistel structure, Diffie-Hellman key exchange, and RSA algorithm.",
+          "order": 2,
+          "files": [
+            {
+              "id": "confidentiality-and-modular-arithmetic-detailed-notes",
+              "name": "Confidentiality and Modular Arithmetic Detailed Notes",
+              "title": "Confidentiality And Modular Arithmetic Detailed Notes",
+              "slug": "confidentiality-and-modular-arithmetic-detailed-notes",
+              "path": "/library/is-crypto/unit-2-symmetric-asymmetric-encryption/Confidentiality%20and%20Modular%20Arithmetic%20Detailed%20Notes.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/is-crypto/unit-2-symmetric-asymmetric-encryption/Confidentiality%20and%20Modular%20Arithmetic%20Detailed%20Notes.pdf",
+              "sizeMb": 0.21,
+              "sizeFormatted": "210 KB",
+              "pageCount": 10
+            }
+          ],
+          "documents": [
+            {
+              "id": "confidentiality-and-modular-arithmetic-detailed-notes",
+              "name": "Confidentiality and Modular Arithmetic Detailed Notes",
+              "title": "Confidentiality And Modular Arithmetic Detailed Notes",
+              "slug": "confidentiality-and-modular-arithmetic-detailed-notes",
+              "path": "/library/is-crypto/unit-2-symmetric-asymmetric-encryption/Confidentiality%20and%20Modular%20Arithmetic%20Detailed%20Notes.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/is-crypto/unit-2-symmetric-asymmetric-encryption/Confidentiality%20and%20Modular%20Arithmetic%20Detailed%20Notes.pdf",
+              "sizeMb": 0.21,
+              "sizeFormatted": "210 KB",
+              "pageCount": 10
+            }
+          ]
+        },
+        {
+          "id": "unit-3-hash-functions-and-signatures",
+          "slug": "unit-3-hash-functions-and-signatures",
+          "name": "Unit 3: Hash Functions & Digital Signatures",
+          "description": "Cryptographic hash functions, SHA-512, message authentication codes (HMAC), digital signatures, and public key infrastructure.",
+          "order": 3,
+          "files": [
+            {
+              "id": "block-ciphers-and-data-encryption-detailed-notes",
+              "name": "Block Ciphers and Data Encryption Detailed Notes",
+              "title": "Block Ciphers And Data Encryption Detailed Notes",
+              "slug": "block-ciphers-and-data-encryption-detailed-notes",
+              "path": "/library/is-crypto/unit-3-hash-functions-and-signatures/Block%20Ciphers%20and%20Data%20Encryption%20Detailed%20Notes.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/is-crypto/unit-3-hash-functions-and-signatures/Block%20Ciphers%20and%20Data%20Encryption%20Detailed%20Notes.pdf",
+              "sizeMb": 0.29,
+              "sizeFormatted": "298 KB",
+              "pageCount": 14
+            }
+          ],
+          "documents": [
+            {
+              "id": "block-ciphers-and-data-encryption-detailed-notes",
+              "name": "Block Ciphers and Data Encryption Detailed Notes",
+              "title": "Block Ciphers And Data Encryption Detailed Notes",
+              "slug": "block-ciphers-and-data-encryption-detailed-notes",
+              "path": "/library/is-crypto/unit-3-hash-functions-and-signatures/Block%20Ciphers%20and%20Data%20Encryption%20Detailed%20Notes.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/is-crypto/unit-3-hash-functions-and-signatures/Block%20Ciphers%20and%20Data%20Encryption%20Detailed%20Notes.pdf",
+              "sizeMb": 0.29,
+              "sizeFormatted": "298 KB",
+              "pageCount": 14
+            }
+          ]
+        }
+      ],
+      "youtubeLinks": [
+        {
+          "id": "isc-gate-smashers",
+          "title": "Cryptography and Network Security - Gate Smashers",
+          "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0YXNd9K45Qo5",
+          "channel": "Gate Smashers",
+          "description": "Explanations of Classical Ciphers, DES, AES, RSA, Diffie-Hellman Key Exchange, and Digital Signatures."
+        },
+        {
+          "id": "isc-nptel",
+          "title": "NPTEL: Cryptography and Network Security",
+          "url": "https://www.youtube.com/playlist?list=PLbMVogVj5nJQZ32L2XwZ4oK74K9f6A2_3",
+          "channel": "NPTEL / IIT Kharagpur",
+          "description": "Formal mathematical foundations of cryptography, modular arithmetic, and security protocols."
+        }
+      ],
+      "syllabus": {
+        "courseCode": "CRYPTO",
+        "courseTitle": "Cryptography",
+        "credits": "3-1-0",
+        "examPattern": "Mid-Sem: 2 Hours (30 Marks) | End-Sem: 3 Hours (50 Marks) | Assignments: 20 Marks",
+        "units": [
+          {
+            "unit": "Unit 1",
+            "title": "Introduction to Cryptography & Classical Ciphers",
+            "topics": [
+              "Security Goals: Confidentiality, Integrity, Availability, Non-Repudiation, Authentication",
+              "OSI Security Architecture: Attacks (Passive vs Active), Services, and Mechanisms",
+              "Classical Substitution Techniques: Caesar Cipher, Monoalphabetic, Playfair, Hill Cipher, Polyalphabetic (Vigenère)",
+              "Transposition Techniques: Rail Fence, Columnar Transposition",
+              "Steganography vs Cryptography and Cryptanalysis Techniques"
+            ]
+          },
+          {
+            "unit": "Unit 2",
+            "title": "Modular Arithmetic, Number Theory & Symmetric Ciphers",
+            "topics": [
+              "Modular Arithmetic: Divisibility, Euclidean and Extended Euclidean Algorithms",
+              "Prime Numbers: Fermat's and Euler's Theorems, Euler's Totient Function phi(n)",
+              "Chinese Remainder Theorem and Discrete Logarithms",
+              "Feistel Cipher Structure, Simplified DES (S-DES), and Data Encryption Standard (DES)",
+              "Advanced Encryption Standard (AES): S-Box, ShiftRows, MixColumns, AddRoundKey",
+              "Block Cipher Modes of Operation: ECB, CBC, CFB, OFB, CTR"
+            ]
+          },
+          {
+            "unit": "Unit 3",
+            "title": "Asymmetric Cryptography, Hash Functions & Digital Signatures",
+            "topics": [
+              "Public-Key Cryptography Principles and Trapdoor One-Way Functions",
+              "RSA Cryptosystem: Key Generation, Encryption, Decryption, and Security Vulnerabilities",
+              "Diffie-Hellman Key Exchange Algorithm and Man-in-the-Middle Attack",
+              "Cryptographic Hash Functions: SHA-512, MD5, and Message Authentication Codes (HMAC)",
+              "Digital Signature Standard (DSS / DSA) and Public Key Infrastructure (PKI)"
+            ]
+          }
+        ],
+        "textbooks": [
+          "William Stallings, 'Cryptography and Network Security: Principles and Practice', 7th Edition, Pearson",
+          "Behrouz A. Forouzan, 'Cryptography and Network Security', McGraw Hill"
+        ],
+        "references": [
+          "Bruce Schneier, 'Applied Cryptography: Protocols, Algorithms, and Source Code in C', Wiley",
+          "Alfred J. Menezes, Paul C. van Oorschot, Scott A. Vanstone, 'Handbook of Applied Cryptography', CRC Press"
+        ]
+      }
+    },
+    {
+      "id": "mds",
+      "slug": "mds",
+      "name": "Mathematics for Data Science",
+      "code": "MDS",
+      "branches": [
+        "DSA",
+        "AI & IT"
+      ],
+      "altName": "Mathematics for Data Science / Linear Algebra",
+      "description": "Linear algebra, vector spaces, projection matrices, least-squares regression, random variables, probability spaces, and measure theory.",
+      "examDate": "28.10.2026",
+      "examTime": "02:00 PM – 04:00 PM",
+      "order": 3,
+      "units": [
+        {
+          "id": "unit-1",
+          "slug": "unit-1",
+          "name": "Unit 1: Vector Spaces & Subspaces",
+          "description": "Vector spaces, subspace axioms, linear combinations, spanning sets, and linear independence.",
+          "order": 1,
+          "files": [
+            {
+              "id": "vector-spaces-lecture-notes",
+              "name": "vector spaces lecture notes",
+              "title": "Vector Spaces - Official Lecture Notes",
+              "slug": "vector-spaces-lecture-notes",
+              "path": "/library/mds/unit-1/vector%20spaces%20lecture%20notes.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/mds/unit-1/vector%20spaces%20lecture%20notes.pdf",
+              "sizeMb": 8.95,
+              "sizeFormatted": "8.9 MB",
+              "pageCount": 12,
+              "description": "Comprehensive theory covering vector space axioms, closure properties, and proof structures."
+            },
+            {
+              "id": "sub-space",
+              "name": "sub space",
+              "title": "Subspaces - Theorems & Criteria",
+              "slug": "sub-space",
+              "path": "/library/mds/unit-1/sub%20space.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/mds/unit-1/sub%20space.pdf",
+              "sizeMb": 2.18,
+              "sizeFormatted": "2.2 MB",
+              "pageCount": 7,
+              "description": "Definitions of subspaces, 3-point criterion, linear closure, and geometric interpretation."
+            },
+            {
+              "id": "scan-documents20260909-085612",
+              "name": "Scan documents20260909_085612",
+              "title": "Classroom Scanned Notes & Problem Solutions",
+              "slug": "scan-documents20260909-085612",
+              "path": "/library/mds/unit-1/Scan%20documents20260909_085612.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/mds/unit-1/Scan%20documents20260909_085612.pdf",
+              "sizeMb": 11.98,
+              "sizeFormatted": "12.0 MB",
+              "pageCount": 4,
+              "description": "Original classroom whiteboard scans and step-by-step problem derivations."
+            },
+            {
+              "id": "maths-notes-2-2",
+              "name": "Maths notes 2 (2)",
+              "title": "Vector Spaces & Linear Maps - Part 2 Notes",
+              "slug": "maths-notes-2-2",
+              "path": "/library/mds/unit-1/Maths%20notes%202%20(2).pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/mds/unit-1/Maths%20notes%202%20(2).pdf",
+              "sizeMb": 4.96,
+              "sizeFormatted": "5.0 MB",
+              "pageCount": 10,
+              "description": "Extended class notes covering basis, dimension, and linear transformations."
+            },
+            {
+              "id": "new-doc-08-04-2025-09-53-1",
+              "name": "New Doc 08-04-2025 09.53 (1)",
+              "title": "Vector Spaces & Applications Study Doc",
+              "slug": "new-doc-08-04-2025-09-53-1",
+              "path": "/library/mds/unit-1/New%20Doc%2008-04-2025%2009.53%20(1).pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/mds/unit-1/New%20Doc%2008-04-2025%2009.53%20(1).pdf",
+              "sizeMb": 6.05,
+              "sizeFormatted": "6.0 MB",
+              "pageCount": 14,
+              "description": "Additional handwritten notes and worked-out examples for mid-sem revision."
+            }
+          ],
+          "documents": [
+            {
+              "id": "vector-spaces-lecture-notes",
+              "name": "vector spaces lecture notes",
+              "title": "Vector Spaces - Official Lecture Notes",
+              "slug": "vector-spaces-lecture-notes",
+              "path": "/library/mds/unit-1/vector%20spaces%20lecture%20notes.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/mds/unit-1/vector%20spaces%20lecture%20notes.pdf",
+              "sizeMb": 8.95,
+              "sizeFormatted": "8.9 MB",
+              "pageCount": 12,
+              "description": "Comprehensive theory covering vector space axioms, closure properties, and proof structures."
+            },
+            {
+              "id": "sub-space",
+              "name": "sub space",
+              "title": "Subspaces - Theorems & Criteria",
+              "slug": "sub-space",
+              "path": "/library/mds/unit-1/sub%20space.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/mds/unit-1/sub%20space.pdf",
+              "sizeMb": 2.18,
+              "sizeFormatted": "2.2 MB",
+              "pageCount": 7,
+              "description": "Definitions of subspaces, 3-point criterion, linear closure, and geometric interpretation."
+            },
+            {
+              "id": "scan-documents20260909-085612",
+              "name": "Scan documents20260909_085612",
+              "title": "Classroom Scanned Notes & Problem Solutions",
+              "slug": "scan-documents20260909-085612",
+              "path": "/library/mds/unit-1/Scan%20documents20260909_085612.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/mds/unit-1/Scan%20documents20260909_085612.pdf",
+              "sizeMb": 11.98,
+              "sizeFormatted": "12.0 MB",
+              "pageCount": 4,
+              "description": "Original classroom whiteboard scans and step-by-step problem derivations."
+            },
+            {
+              "id": "maths-notes-2-2",
+              "name": "Maths notes 2 (2)",
+              "title": "Vector Spaces & Linear Maps - Part 2 Notes",
+              "slug": "maths-notes-2-2",
+              "path": "/library/mds/unit-1/Maths%20notes%202%20(2).pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/mds/unit-1/Maths%20notes%202%20(2).pdf",
+              "sizeMb": 4.96,
+              "sizeFormatted": "5.0 MB",
+              "pageCount": 10,
+              "description": "Extended class notes covering basis, dimension, and linear transformations."
+            },
+            {
+              "id": "new-doc-08-04-2025-09-53-1",
+              "name": "New Doc 08-04-2025 09.53 (1)",
+              "title": "Vector Spaces & Applications Study Doc",
+              "slug": "new-doc-08-04-2025-09-53-1",
+              "path": "/library/mds/unit-1/New%20Doc%2008-04-2025%2009.53%20(1).pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/mds/unit-1/New%20Doc%2008-04-2025%2009.53%20(1).pdf",
+              "sizeMb": 6.05,
+              "sizeFormatted": "6.0 MB",
+              "pageCount": 14,
+              "description": "Additional handwritten notes and worked-out examples for mid-sem revision."
+            }
+          ]
+        },
+        {
+          "id": "unit-2",
+          "slug": "unit-2",
+          "name": "Unit 2: Linear Algebra & Matrix Analysis",
+          "description": "Inner product spaces, linear transformations, eigenvalues, eigenvectors, and matrix decompositions.",
+          "order": 2,
+          "files": [
+            {
+              "id": "total-notes-single-file",
+              "name": "total notes single file",
+              "title": "Complete Linear Algebra & Matrix Analysis Notes",
+              "slug": "total-notes-single-file",
+              "path": "/library/mds/unit-2/total%20notes%20single%20file.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/mds/unit-2/total%20notes%20single%20file.pdf",
+              "sizeMb": 32.48,
+              "sizeFormatted": "32.5 MB",
+              "pageCount": 96,
+              "description": "Consolidated single-file master textbook and lecture compilation for Unit 2."
+            },
+            {
+              "id": "total-notes-single-file-original",
+              "name": "total notes single file_original",
+              "title": "Total Notes Single File Original",
+              "slug": "total-notes-single-file-original",
+              "path": "/library/mds/unit-2/total%20notes%20single%20file_original.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/mds/unit-2/total%20notes%20single%20file_original.pdf",
+              "sizeMb": 60.8,
+              "sizeFormatted": "60.8 MB",
+              "pageCount": 96
+            }
+          ],
+          "documents": [
+            {
+              "id": "total-notes-single-file",
+              "name": "total notes single file",
+              "title": "Complete Linear Algebra & Matrix Analysis Notes",
+              "slug": "total-notes-single-file",
+              "path": "/library/mds/unit-2/total%20notes%20single%20file.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/mds/unit-2/total%20notes%20single%20file.pdf",
+              "sizeMb": 32.48,
+              "sizeFormatted": "32.5 MB",
+              "pageCount": 96,
+              "description": "Consolidated single-file master textbook and lecture compilation for Unit 2."
+            },
+            {
+              "id": "total-notes-single-file-original",
+              "name": "total notes single file_original",
+              "title": "Total Notes Single File Original",
+              "slug": "total-notes-single-file-original",
+              "path": "/library/mds/unit-2/total%20notes%20single%20file_original.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/mds/unit-2/total%20notes%20single%20file_original.pdf",
+              "sizeMb": 60.8,
+              "sizeFormatted": "60.8 MB",
+              "pageCount": 96
+            }
+          ]
+        },
+        {
+          "id": "unit-3",
+          "slug": "unit-3",
+          "name": "Unit 3: Two-Dimensional Random Variables & Regression",
+          "description": "Joint distributions, marginal and conditional probability distributions, covariance, Pearson correlation, and regression analysis.",
+          "order": 3,
+          "files": [
+            {
+              "id": "twodimensional-rv-with-assignment",
+              "name": "twodimensional RV with assignment",
+              "title": "Two-Dimensional Random Variables with Assignment Problems",
+              "slug": "twodimensional-rv-with-assignment",
+              "path": "/library/mds/unit-3/twodimensional%20RV%20with%20assignment.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/mds/unit-3/twodimensional%20RV%20with%20assignment.pdf",
+              "sizeMb": 11.97,
+              "sizeFormatted": "12.0 MB",
+              "pageCount": 21,
+              "description": "Joint probability distributions, marginal PDFs, conditional distributions, independence, and graded assignment solutions."
+            },
+            {
+              "id": "correlation-and-regression-full-notes",
+              "name": "correlation and regression full notes",
+              "title": "Correlation & Linear Regression Full Notes",
+              "slug": "correlation-and-regression-full-notes",
+              "path": "/library/mds/unit-3/correlation%20and%20regression%20full%20notes.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/mds/unit-3/correlation%20and%20regression%20full%20notes.pdf",
+              "sizeMb": 18.96,
+              "sizeFormatted": "19.0 MB",
+              "pageCount": 26,
+              "description": "Covariance calculations, Pearson correlation coefficient, lines of regression, angle between regression lines, and standard error."
+            }
+          ],
+          "documents": [
+            {
+              "id": "twodimensional-rv-with-assignment",
+              "name": "twodimensional RV with assignment",
+              "title": "Two-Dimensional Random Variables with Assignment Problems",
+              "slug": "twodimensional-rv-with-assignment",
+              "path": "/library/mds/unit-3/twodimensional%20RV%20with%20assignment.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/mds/unit-3/twodimensional%20RV%20with%20assignment.pdf",
+              "sizeMb": 11.97,
+              "sizeFormatted": "12.0 MB",
+              "pageCount": 21,
+              "description": "Joint probability distributions, marginal PDFs, conditional distributions, independence, and graded assignment solutions."
+            },
+            {
+              "id": "correlation-and-regression-full-notes",
+              "name": "correlation and regression full notes",
+              "title": "Correlation & Linear Regression Full Notes",
+              "slug": "correlation-and-regression-full-notes",
+              "path": "/library/mds/unit-3/correlation%20and%20regression%20full%20notes.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/mds/unit-3/correlation%20and%20regression%20full%20notes.pdf",
+              "sizeMb": 18.96,
+              "sizeFormatted": "19.0 MB",
+              "pageCount": 26,
+              "description": "Covariance calculations, Pearson correlation coefficient, lines of regression, angle between regression lines, and standard error."
+            }
+          ]
+        }
+      ],
+      "youtubeLinks": [
+        {
+          "id": "mds-nptel",
+          "title": "NPTEL: Linear Algebra for Data Science",
+          "url": "https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2vsW_hmyvVfO-mkwvdWvF",
+          "channel": "NPTEL / IIT Kharagpur",
+          "description": "Comprehensive lectures on vector spaces, subspaces, projection matrices, and orthogonalization."
+        },
+        {
+          "id": "mds-3blue1brown",
+          "title": "Essence of Linear Algebra - 3Blue1Brown",
+          "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
+          "channel": "3Blue1Brown",
+          "description": "Visual intuition for linear combinations, basis, dimension, matrix transformations, and dot products."
+        },
+        {
+          "id": "mds-strang",
+          "title": "MIT 18.06 Linear Algebra - Prof. Gilbert Strang",
+          "url": "https://www.youtube.com/playlist?list=PL49CF371562E417D8",
+          "channel": "MIT OpenCourseWare",
+          "description": "World-renowned lectures covering the four fundamental subspaces, projection matrices, and least-squares."
+        }
+      ],
+      "syllabus": {
+        "courseCode": "MDS",
+        "courseTitle": "Mathematics for Data Science",
+        "credits": "4-0-0",
+        "examPattern": "Mid-Sem: 2 Hours (30 Marks) | End-Sem: 3 Hours (50 Marks) | Continuous Evaluation: 20 Marks",
+        "units": [
+          {
+            "unit": "Unit 1",
+            "title": "Vector Spaces and Subspaces",
+            "topics": [
+              "Definition of Fields, Field Axioms, and Euclidean Spaces",
+              "Vector Space Axioms over Real and Complex Fields",
+              "Subspaces: 3-Point Subspace Test, Linear Combinations, and Linear Span",
+              "Linear Dependence, Linear Independence, and Wronskian / Determinant Criteria",
+              "Basis and Dimension: Finite Dimensional Spaces, Extension of Basis, and Dimension Theorems"
+            ]
+          },
+          {
+            "unit": "Unit 2",
+            "title": "Linear Transformations & Matrix Analysis",
+            "topics": [
+              "Linear Transformations, Kernel (Null Space), and Range (Column Space)",
+              "Rank-Nullity Theorem and Matrix Representation of Linear Operators",
+              "Inner Product Spaces, Cauchy-Schwarz Inequality, and Orthogonality",
+              "Orthogonal Projections, Gram-Schmidt Orthogonalization Process, and QR Decomposition",
+              "Eigenvalues, Eigenvectors, Diagonalization, and Singular Value Decomposition (SVD)"
+            ]
+          },
+          {
+            "unit": "Unit 3",
+            "title": "Two-Dimensional Random Variables & Regression",
+            "topics": [
+              "Joint Probability Mass Functions (PMF) and Joint Probability Density Functions (PDF)",
+              "Marginal and Conditional Probability Distributions",
+              "Expectation, Covariance, Correlation Coefficient (Pearson), and Independence",
+              "Lines of Regression: Principle of Least Squares and Angle Between Regression Lines",
+              "Standard Error of Estimate and Regression Coefficients"
+            ]
+          }
+        ],
+        "textbooks": [
+          "Gilbert Strang, 'Linear Algebra and Its Applications', 5th Edition, Cengage Learning",
+          "Sheldon Ross, 'A First Course in Probability', 10th Edition, Pearson Education"
+        ],
+        "references": [
+          "David C. Lay, 'Linear Algebra and Its Applications', Pearson",
+          "Papoulis & Pillai, 'Probability, Random Variables and Stochastic Processes', McGraw Hill"
+        ]
+      }
+    },
+    {
+      "id": "number-theory",
+      "slug": "number-theory",
+      "name": "Number Theory & Cryptography",
+      "code": "NT",
+      "branches": [
+        "CSE"
+      ],
+      "altName": "Number Theory / Discrete Mathematics",
+      "description": "Divisibility, prime numbers, Euclidean algorithm, modular arithmetic, Fermat's Little Theorem, and Chinese Remainder Theorem.",
+      "examDate": "28.10.2026",
+      "examTime": "02:00 PM – 04:00 PM",
+      "order": 3,
+      "units": [
+        {
+          "id": "unit-1-divisibility-and-primes",
+          "slug": "unit-1-divisibility-and-primes",
+          "name": "Unit 1: Divisibility & Prime Factorization",
+          "description": "Division algorithm, Greatest Common Divisor (GCD), Bezout's identity, primes, and the Fundamental Theorem of Arithmetic.",
+          "order": 1,
+          "files": [],
+          "documents": []
+        }
+      ],
+      "youtubeLinks": []
+    },
+    {
+      "id": "image-processing",
+      "slug": "image-processing",
+      "name": "Image Processing",
+      "code": "IP",
+      "branches": [
+        "DSA"
+      ],
+      "altName": "Digital Image Processing",
+      "description": "Digital image fundamentals, spatial filtering, image enhancement, Fourier transforms, edge detection, and morphological operations.",
+      "examDate": "29.10.2026",
+      "examTime": "02:00 PM – 04:00 PM",
+      "order": 4,
+      "units": [
+        {
+          "id": "unit-1-image-fundamentals",
+          "slug": "unit-1-image-fundamentals",
+          "name": "Unit 1: Digital Image Fundamentals & Sampling",
+          "description": "Elements of visual perception, light and electromagnetic spectrum, image sensing and acquisition, sampling and quantization, and pixel relationships.",
+          "order": 1,
+          "files": [
+            {
+              "id": "01-image-fundamentals-and-sampling",
+              "name": "01-image-fundamentals-and-sampling",
+              "title": "Image Fundamentals And Sampling",
+              "slug": "01-image-fundamentals-and-sampling",
+              "path": "/library/image-processing/unit-1-image-fundamentals/01-image-fundamentals-and-sampling.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/image-processing/unit-1-image-fundamentals/01-image-fundamentals-and-sampling.pdf",
+              "sizeMb": 0,
+              "sizeFormatted": "2 KB",
+              "pageCount": 1
+            }
+          ],
+          "documents": [
+            {
+              "id": "01-image-fundamentals-and-sampling",
+              "name": "01-image-fundamentals-and-sampling",
+              "title": "Image Fundamentals And Sampling",
+              "slug": "01-image-fundamentals-and-sampling",
+              "path": "/library/image-processing/unit-1-image-fundamentals/01-image-fundamentals-and-sampling.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/image-processing/unit-1-image-fundamentals/01-image-fundamentals-and-sampling.pdf",
+              "sizeMb": 0,
+              "sizeFormatted": "2 KB",
+              "pageCount": 1
+            }
+          ]
+        },
+        {
+          "id": "unit-2-image-enhancement-filtering",
+          "slug": "unit-2-image-enhancement-filtering",
+          "name": "Unit 2: Spatial Filtering & Image Enhancement",
+          "description": "Histogram equalization, contrast stretching, linear and non-linear smoothing spatial filters, sharpening Laplacian and gradient filters.",
+          "order": 2,
+          "files": [
+            {
+              "id": "01-spatial-filtering-and-enhancement",
+              "name": "01-spatial-filtering-and-enhancement",
+              "title": "Spatial Filtering And Enhancement",
+              "slug": "01-spatial-filtering-and-enhancement",
+              "path": "/library/image-processing/unit-2-image-enhancement-filtering/01-spatial-filtering-and-enhancement.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/image-processing/unit-2-image-enhancement-filtering/01-spatial-filtering-and-enhancement.pdf",
+              "sizeMb": 0,
+              "sizeFormatted": "2 KB",
+              "pageCount": 1
+            }
+          ],
+          "documents": [
+            {
+              "id": "01-spatial-filtering-and-enhancement",
+              "name": "01-spatial-filtering-and-enhancement",
+              "title": "Spatial Filtering And Enhancement",
+              "slug": "01-spatial-filtering-and-enhancement",
+              "path": "/library/image-processing/unit-2-image-enhancement-filtering/01-spatial-filtering-and-enhancement.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/image-processing/unit-2-image-enhancement-filtering/01-spatial-filtering-and-enhancement.pdf",
+              "sizeMb": 0,
+              "sizeFormatted": "2 KB",
+              "pageCount": 1
+            }
+          ]
+        },
+        {
+          "id": "unit-3-morphological-processing",
+          "slug": "unit-3-morphological-processing",
+          "name": "Unit 3: Morphological Image Processing & Segmentation",
+          "description": "Erosion and dilation, opening and closing, hit-or-miss transform, boundary extraction, point and line detection, and thresholding.",
+          "order": 3,
+          "files": [
+            {
+              "id": "01-morphological-operations-and-segmentation",
+              "name": "01-morphological-operations-and-segmentation",
+              "title": "Morphological Operations And Segmentation",
+              "slug": "01-morphological-operations-and-segmentation",
+              "path": "/library/image-processing/unit-3-morphological-processing/01-morphological-operations-and-segmentation.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/image-processing/unit-3-morphological-processing/01-morphological-operations-and-segmentation.pdf",
+              "sizeMb": 0,
+              "sizeFormatted": "2 KB",
+              "pageCount": 1
+            }
+          ],
+          "documents": [
+            {
+              "id": "01-morphological-operations-and-segmentation",
+              "name": "01-morphological-operations-and-segmentation",
+              "title": "Morphological Operations And Segmentation",
+              "slug": "01-morphological-operations-and-segmentation",
+              "path": "/library/image-processing/unit-3-morphological-processing/01-morphological-operations-and-segmentation.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/image-processing/unit-3-morphological-processing/01-morphological-operations-and-segmentation.pdf",
+              "sizeMb": 0,
+              "sizeFormatted": "2 KB",
+              "pageCount": 1
+            }
+          ]
+        }
+      ],
+      "youtubeLinks": [
+        {
+          "id": "ip-gate-smashers",
+          "title": "Digital Image Processing (DIP) Full Course - Gate Smashers",
+          "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiEImsVdsZhydaDC46Q4EPNA",
+          "channel": "Gate Smashers",
+          "description": "Comprehensive video series covering sampling, quantization, spatial filtering, histogram equalization, and morphology."
+        },
+        {
+          "id": "ip-nptel",
+          "title": "NPTEL: Digital Image Processing - Prof. P.K. Biswas",
+          "url": "https://www.youtube.com/playlist?list=PLbMVogVj5nJR1A2HhN_8Q3LhZJ5cE7X_Q",
+          "channel": "NPTEL / IIT Kharagpur",
+          "description": "Rigorous academic lectures on 2D Fourier transforms, frequency domain filtering, image restoration, and edge detection."
+        },
+        {
+          "id": "yt-1792584679174",
+          "title": "Mohan Bansal Guide",
+          "url": "https://youtube.com/playlist?list=PLZjlBaHNchvNBdT-zxD8axkLA4wvXFyDQ&si=hoxuEmtRDurHToH-",
+          "channel": "YouTube",
+          "description": "Image Processing (Lec 1-6, 13-14,17-21)"
+        }
+      ],
+      "syllabus": {
+        "courseCode": "IP",
+        "courseTitle": "Image Processing",
+        "credits": "3-0-2",
+        "examPattern": "Mid-Sem: 2 Hours (30 Marks) | End-Sem: 3 Hours (50 Marks) | Lab: 20 Marks",
+        "units": [
+          {
+            "unit": "Unit 1",
+            "title": "Digital Image Fundamentals & Acquisition",
+            "topics": [
+              "Elements of Visual Perception: Eye Structure, Photopic vs Scotopic Vision, Brightness Adaptation",
+              "Light, Electromagnetic Spectrum, and Image Sensing & Acquisition Systems",
+              "Image Sampling and Quantization: Spatial Resolution, Intensity Level Resolution, Aliasing",
+              "Basic Relationships Between Pixels: Neighbors (4-neighbors, 8-neighbors, diagonal), Adjacency, Connectivity, and Distance Measures (Euclidean, City-Block, Chessboard)"
+            ]
+          },
+          {
+            "unit": "Unit 2",
+            "title": "Spatial Filtering & Image Enhancement",
+            "topics": [
+              "Gray-Level Intensity Transformations: Negative, Logarithmic, Power-Law (Gamma) Transforms",
+              "Piecewise-Linear Transformations: Contrast Stretching, Gray-Level Slicing, Bit-Plane Slicing",
+              "Histogram Processing: Histogram Equalization, Histogram Specification (Matching), Local Enhancement",
+              "Spatial Filtering Fundamentals: Correlation vs Convolution, Smoothing Linear Filters (Box, Gaussian), Order-Statistic Filters (Median, Max, Min)",
+              "Sharpening Spatial Filters: First and Second Derivatives (Laplacian, Gradient, Sobel, Prewitt), Unsharp Masking, and Highboost Filtering"
+            ]
+          },
+          {
+            "unit": "Unit 3",
+            "title": "Morphological Operations & Segmentation",
+            "topics": [
+              "Preliminaries: Sets in Mathematical Morphology, Reflection, Translation, Structuring Elements",
+              "Dilation and Erosion: Algebraic Properties, Dualities",
+              "Opening and Closing: Properties and Noise Filtering",
+              "Hit-or-Miss Transform, Boundary Extraction, Hole Filling, and Connected Components Extraction",
+              "Morphological Reconstruction, Thinning, Thickening, and Skeletons",
+              "Image Segmentation: Point, Line, and Edge Detection, Thresholding (Otsu's Method), Region Growing"
+            ]
+          }
+        ],
+        "textbooks": [
+          "Rafael C. Gonzalez, Richard E. Woods, 'Digital Image Processing', 4th Edition, Pearson Education",
+          "Anil K. Jain, 'Fundamentals of Digital Image Processing', Prentice Hall"
+        ],
+        "references": [
+          "William K. Pratt, 'Digital Image Processing', 4th Edition, John Wiley & Sons",
+          "S. Sridhar, 'Digital Image Processing', 2nd Edition, Oxford University Press"
+        ]
+      }
+    },
+    {
+      "id": "signal-processing",
+      "slug": "signal-processing",
+      "name": "Signal Processing & Systems",
+      "code": "SP",
+      "branches": [
+        "CSE"
+      ],
+      "altName": "Digital Signal Processing",
+      "description": "Continuous and discrete-time signals, LTI systems, Fourier transform, Z-transform, and digital filter design.",
+      "examDate": "29.10.2026",
+      "examTime": "02:00 PM – 04:00 PM",
+      "order": 4,
+      "units": [
+        {
+          "id": "unit-1-signals-and-systems",
+          "slug": "unit-1-signals-and-systems",
+          "name": "Unit 1: Signals, Systems & LTI Properties",
+          "description": "Classification of signals, discrete-time operations, convolution sum, causality, and stability of LTI systems.",
+          "order": 1,
+          "files": [],
+          "documents": []
+        }
+      ],
+      "youtubeLinks": []
+    },
+    {
+      "id": "soft-skills",
+      "slug": "soft-skills",
+      "name": "Professional Communication & Soft Skills",
+      "code": "SS",
+      "branches": [
+        "CSE"
+      ],
+      "altName": "Corporate Communication & Professional Ethics",
+      "description": "Technical correspondence, group discussions, resume engineering, executive summaries, and workplace communication.",
+      "examDate": "30.10.2026",
+      "examTime": "02:00 PM – 04:00 PM",
+      "order": 5,
+      "units": [
+        {
+          "id": "unit-1-business-communication",
+          "slug": "unit-1-business-communication",
+          "name": "Unit 1: Business Correspondence & Technical Writing",
+          "description": "Formal emails, technical proposals, progress reports, and professional interview etiquette.",
+          "order": 1,
+          "files": [],
+          "documents": []
+        }
+      ],
+      "youtubeLinks": []
+    },
+    {
+      "id": "pc-python",
+      "slug": "pc-python",
+      "name": "Python",
+      "code": "PYTHON",
+      "branches": [
+        "DSA",
+        "AI & IT"
+      ],
+      "altName": "Scientific Python & Data Applications",
+      "description": "Python core syntax, data structures, OOP, NumPy numerical computing, Pandas data analysis, and scientific computing.",
+      "examDate": "30.10.2026",
+      "examTime": "02:00 PM – 04:00 PM",
+      "order": 5,
+      "units": [
+        {
+          "id": "unit-1-python-programming",
+          "slug": "unit-1-python-programming",
+          "name": "Unit 1: Python Programming for Data Analysis",
+          "description": "Python data structures, functional paradigms, NumPy array manipulation, Pandas dataframes, and Matplotlib plotting.",
+          "order": 1,
+          "files": [
+            {
+              "id": "01-python-data-structures-and-numpy",
+              "name": "01-python-data-structures-and-numpy",
+              "title": "Python Data Structures And Numpy",
+              "slug": "01-python-data-structures-and-numpy",
+              "path": "/library/pc-python/unit-1-python-programming/01-python-data-structures-and-numpy.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/pc-python/unit-1-python-programming/01-python-data-structures-and-numpy.pdf",
+              "sizeMb": 0,
+              "sizeFormatted": "2 KB",
+              "pageCount": 1
+            }
+          ],
+          "documents": [
+            {
+              "id": "01-python-data-structures-and-numpy",
+              "name": "01-python-data-structures-and-numpy",
+              "title": "Python Data Structures And Numpy",
+              "slug": "01-python-data-structures-and-numpy",
+              "path": "/library/pc-python/unit-1-python-programming/01-python-data-structures-and-numpy.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/pc-python/unit-1-python-programming/01-python-data-structures-and-numpy.pdf",
+              "sizeMb": 0,
+              "sizeFormatted": "2 KB",
+              "pageCount": 1
+            }
+          ]
+        },
+        {
+          "id": "unit-2-technical-communication",
+          "slug": "unit-2-technical-communication",
+          "name": "Unit 2: Technical Writing & Communication Skills",
+          "description": "Structure of scientific reports, executive summaries, research paper drafting, oral presentations, and interview skills.",
+          "order": 2,
+          "files": [
+            {
+              "id": "01-pandas-data-analysis-and-visualization",
+              "name": "01-pandas-data-analysis-and-visualization",
+              "title": "Pandas Data Analysis And Visualization",
+              "slug": "01-pandas-data-analysis-and-visualization",
+              "path": "/library/pc-python/unit-2-technical-communication/01-pandas-data-analysis-and-visualization.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/pc-python/unit-2-technical-communication/01-pandas-data-analysis-and-visualization.pdf",
+              "sizeMb": 0,
+              "sizeFormatted": "2 KB",
+              "pageCount": 1
+            }
+          ],
+          "documents": [
+            {
+              "id": "01-pandas-data-analysis-and-visualization",
+              "name": "01-pandas-data-analysis-and-visualization",
+              "title": "Pandas Data Analysis And Visualization",
+              "slug": "01-pandas-data-analysis-and-visualization",
+              "path": "/library/pc-python/unit-2-technical-communication/01-pandas-data-analysis-and-visualization.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/pc-python/unit-2-technical-communication/01-pandas-data-analysis-and-visualization.pdf",
+              "sizeMb": 0,
+              "sizeFormatted": "2 KB",
+              "pageCount": 1
+            }
+          ]
+        }
+      ],
+      "youtubeLinks": [
+        {
+          "id": "python-corey-schafer",
+          "title": "Python Programming Tutorial: Full Course - Corey Schafer",
+          "url": "https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyMT88gk2WXDf50x",
+          "channel": "Corey Schafer",
+          "description": "Comprehensive modular tutorials covering Python data structures, functions, OOP concepts, generators, and file I/O."
+        },
+        {
+          "id": "python-numpy-pandas-freecodecamp",
+          "title": "Python for Data Analysis: NumPy, Pandas, Matplotlib",
+          "url": "https://www.youtube.com/watch?v=r-uOLxNrNk8",
+          "channel": "freeCodeCamp.org",
+          "description": "End-to-end data processing, dataframe manipulation, series vectorization, indexing, and visualization techniques."
+        }
+      ],
+      "syllabus": {
+        "courseCode": "PYTHON",
+        "courseTitle": "Python",
+        "credits": "3-0-2",
+        "examPattern": "Mid-Sem: 2 Hours (30 Marks) | End-Sem: 3 Hours (50 Marks) | Practical/Lab: 20 Marks",
+        "units": [
+          {
+            "unit": "Unit 1",
+            "title": "Core Python Syntax, Data Structures & NumPy",
+            "topics": [
+              "Python Execution Model, Dynamic Typing, Control Flow, and Scoping Rules (LEGB)",
+              "Built-in Data Structures: Lists, Tuples, Dictionaries, Sets - Complexity and Operations",
+              "Functions: Positional/Keyword Arguments, *args, **kwargs, Lambda Functions, Closures, Decorators",
+              "Object-Oriented Programming: Classes, Instances, Inheritance, Magic Methods, Polymorphism",
+              "NumPy N-Dimensional Arrays (ndarray): Creation, Indexing, Slicing, Reshaping, Strides",
+              "NumPy Vectorization, Broadcasting Rules, Universal Functions (ufunc), Linear Algebra (np.linalg)"
+            ]
+          },
+          {
+            "unit": "Unit 2",
+            "title": "Pandas Data Analysis & Matplotlib Visualization",
+            "topics": [
+              "Pandas Series and DataFrame Fundamentals: Creation, Reading CSV/JSON/SQL Datasets",
+              "Data Indexing and Selection: loc vs iloc, Boolean Masking, MultiIndex",
+              "Data Cleaning: Handling Missing Values (isna, fillna, dropna), Duplicate Removal, String Methods",
+              "Group Operations: Split-Apply-Combine Pattern, Aggregation, Transformation, Pivot Tables",
+              "Matplotlib Architecture: Figure, Axes, Line Plots, Scatter Plots, Histograms, Subplots",
+              "Seaborn Statistical Data Visualization: Heatmaps, Pairplots, Boxplots, Violin Plots"
+            ]
+          }
+        ],
+        "textbooks": [
+          "Wes McKinney, 'Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter', 3rd Edition, O'Reilly",
+          "Mark Lutz, 'Learning Python', 5th Edition, O'Reilly Media"
+        ],
+        "references": [
+          "Jake VanderPlas, 'Python Data Science Handbook', O'Reilly Media",
+          "Luciano Ramalho, 'Fluent Python', 2nd Edition, O'Reilly Media"
+        ]
+      }
+    },
+    {
+      "id": "ml",
+      "slug": "ml",
+      "name": "Machine Learning",
+      "code": "ML",
+      "branches": [
+        "DSA",
+        "CSE",
+        "AI & IT"
+      ],
+      "altName": "Machine Learning & Neural Networks",
+      "description": "Supervised learning, linear/logistic regression, cost functions, gradient descent, SVMs, decision trees, and neural networks.",
+      "examDate": "02.11.2026",
+      "examTime": "10:00 AM – 12:00 NN",
+      "order": 6,
+      "units": [
+        {
+          "id": "unit-1-supervised-learning",
+          "slug": "unit-1-supervised-learning",
+          "name": "Unit 1: Supervised Learning & Optimization",
+          "description": "Linear and polynomial regression, normal equations, gradient descent variants, logistic regression, and regularization.",
+          "order": 1,
+          "files": [
+            {
+              "id": "01-linear-and-logistic-regression",
+              "name": "01-linear-and-logistic-regression",
+              "title": "Linear And Logistic Regression",
+              "slug": "01-linear-and-logistic-regression",
+              "path": "/library/ml/unit-1-supervised-learning/01-linear-and-logistic-regression.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/ml/unit-1-supervised-learning/01-linear-and-logistic-regression.pdf",
+              "sizeMb": 0,
+              "sizeFormatted": "2 KB",
+              "pageCount": 1
+            }
+          ],
+          "documents": [
+            {
+              "id": "01-linear-and-logistic-regression",
+              "name": "01-linear-and-logistic-regression",
+              "title": "Linear And Logistic Regression",
+              "slug": "01-linear-and-logistic-regression",
+              "path": "/library/ml/unit-1-supervised-learning/01-linear-and-logistic-regression.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/ml/unit-1-supervised-learning/01-linear-and-logistic-regression.pdf",
+              "sizeMb": 0,
+              "sizeFormatted": "2 KB",
+              "pageCount": 1
+            }
+          ]
+        },
+        {
+          "id": "unit-2-neural-networks-and-deep-learning",
+          "slug": "unit-2-neural-networks-and-deep-learning",
+          "name": "Unit 2: Neural Networks & Deep Learning",
+          "description": "Perceptrons, multi-layer feedforward networks, activation functions, backpropagation algorithm, and loss optimization.",
+          "order": 2,
+          "files": [
+            {
+              "id": "01-feedforward-neural-networks-backpropagation",
+              "name": "01-feedforward-neural-networks-backpropagation",
+              "title": "Feedforward Neural Networks Backpropagation",
+              "slug": "01-feedforward-neural-networks-backpropagation",
+              "path": "/library/ml/unit-2-neural-networks-and-deep-learning/01-feedforward-neural-networks-backpropagation.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/ml/unit-2-neural-networks-and-deep-learning/01-feedforward-neural-networks-backpropagation.pdf",
+              "sizeMb": 0,
+              "sizeFormatted": "2 KB",
+              "pageCount": 1
+            }
+          ],
+          "documents": [
+            {
+              "id": "01-feedforward-neural-networks-backpropagation",
+              "name": "01-feedforward-neural-networks-backpropagation",
+              "title": "Feedforward Neural Networks Backpropagation",
+              "slug": "01-feedforward-neural-networks-backpropagation",
+              "path": "/library/ml/unit-2-neural-networks-and-deep-learning/01-feedforward-neural-networks-backpropagation.pdf",
+              "url": "https://vxynlnjltecjwpimndjj.supabase.co/storage/v1/object/public/academic-pdfs/notes/ml/unit-2-neural-networks-and-deep-learning/01-feedforward-neural-networks-backpropagation.pdf",
+              "sizeMb": 0,
+              "sizeFormatted": "2 KB",
+              "pageCount": 1
+            }
+          ]
+        }
+      ],
+      "youtubeLinks": [
+        {
+          "id": "ml-statquest",
+          "title": "Machine Learning Fundamentals - StatQuest with Josh Starmer",
+          "url": "https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF",
+          "channel": "StatQuest",
+          "description": "Step-by-step visual explanations of Linear Regression, Logistic Regression, Gradient Descent, and SVMs."
+        },
+        {
+          "id": "ml-andrew-ng",
+          "title": "Stanford CS229: Machine Learning - Andrew Ng",
+          "url": "https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU",
+          "channel": "Stanford Online",
+          "description": "The gold-standard rigorous mathematical derivation of ML loss functions, convex optimization, and learning theory."
+        }
+      ],
+      "syllabus": {
+        "courseCode": "ML",
+        "courseTitle": "Machine Learning",
+        "credits": "3-1-0",
+        "examPattern": "Mid-Sem: 2 Hours (30 Marks) | End-Sem: 3 Hours (50 Marks) | Assignments: 20 Marks",
+        "units": [
+          {
+            "unit": "Unit 1",
+            "title": "Supervised Learning, Regression & Classification",
+            "topics": [
+              "Machine Learning Paradigms: Supervised, Unsupervised, Semi-supervised, Reinforcement Learning",
+              "Linear Regression: Hypothesis Representation, Mean Squared Error Cost Function, Batch & Stochastic Gradient Descent",
+              "Multiple Linear Regression, Normal Equation, and Feature Scaling / Mean Normalization",
+              "Overfitting and Underfitting: Bias-Variance Tradeoff, L1 Lasso and L2 Ridge Regularization",
+              "Logistic Regression: Sigmoid Function, Cross-Entropy Loss, Decision Boundaries, Multi-class Classification (One-vs-All)",
+              "Generative vs Discriminative Models, Linear Discriminant Analysis (LDA), and Naive Bayes Classifier"
+            ]
+          },
+          {
+            "unit": "Unit 2",
+            "title": "Neural Networks, Deep Learning & Support Vector Machines",
+            "topics": [
+              "Biological Neuron vs Artificial Perceptron, Perceptron Learning Algorithm, XOR Problem",
+              "Multilayer Perceptron (MLP) Architecture: Hidden Layers, Universal Approximation Property",
+              "Activation Functions: Sigmoid, Tanh, Rectified Linear Unit (ReLU), Leaky ReLU, Softmax",
+              "Backpropagation Algorithm: Forward Propagation, Computational Graphs, Multivariate Chain Rule Derivations",
+              "Optimization Algorithms: Momentum, RMSProp, Adam, Mini-Batch SGD, Learning Rate Schedules",
+              "Support Vector Machines (SVM): Maximum Margin Hyperplane, Hard-Margin vs Soft-Margin (C parameter), Kernel Trick (Polynomial, RBF)"
+            ]
+          }
+        ],
+        "textbooks": [
+          "Tom M. Mitchell, 'Machine Learning', McGraw-Hill",
+          "Christopher M. Bishop, 'Pattern Recognition and Machine Learning', Springer"
+        ],
+        "references": [
+          "Kevin P. Murphy, 'Machine Learning: A Probabilistic Perspective', MIT Press",
+          "Ian Goodfellow, Yoshua Bengio, Aaron Courville, 'Deep Learning', MIT Press"
+        ]
+      }
+    }
+  ]
+}

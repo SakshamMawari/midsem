@@ -1,0 +1,10 @@
+{
+  "code": "CRYPTO",
+  "name": "Cryptography",
+  "altName": "Cryptography / Information Security",
+  "branches": ["DSA", "CSE", "AI & IT"],
+  "description": "Security principles, classical and modern ciphers (DES/AES), public-key cryptography (RSA), hash functions, and authentication.",
+  "examDate": "27.10.2026",
+  "examTime": "02:00 PM – 04:00 PM",
+  "order": 2
+}

@@ -1,0 +1,10 @@
+{
+  "code": "MDS",
+  "name": "Mathematics for Data Science",
+  "altName": "Mathematics for Data Science / Linear Algebra",
+  "branches": ["DSA", "AI & IT"],
+  "description": "Linear algebra, vector spaces, projection matrices, least-squares regression, random variables, probability spaces, and measure theory.",
+  "examDate": "28.10.2026",
+  "examTime": "02:00 PM – 04:00 PM",
+  "order": 3
+}

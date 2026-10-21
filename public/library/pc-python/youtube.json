@@ -1,0 +1,16 @@
+[
+  {
+    "id": "python-corey-schafer",
+    "title": "Python Programming Tutorial: Full Course - Corey Schafer",
+    "url": "https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyMT88gk2WXDf50x",
+    "channel": "Corey Schafer",
+    "description": "Comprehensive modular tutorials covering Python data structures, functions, OOP concepts, generators, and file I/O."
+  },
+  {
+    "id": "python-numpy-pandas-freecodecamp",
+    "title": "Python for Data Analysis: NumPy, Pandas, Matplotlib",
+    "url": "https://www.youtube.com/watch?v=r-uOLxNrNk8",
+    "channel": "freeCodeCamp.org",
+    "description": "End-to-end data processing, dataframe manipulation, series vectorization, indexing, and visualization techniques."
+  }
+]

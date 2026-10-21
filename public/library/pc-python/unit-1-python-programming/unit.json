@@ -1,0 +1,5 @@
+{
+  "name": "Unit 1: Python Programming for Data Analysis",
+  "description": "Python data structures, functional paradigms, NumPy array manipulation, Pandas dataframes, and Matplotlib plotting.",
+  "order": 1
+}

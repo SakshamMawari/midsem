@@ -1,0 +1,14 @@
+{
+  "name": "Unit 2: Linear Algebra & Matrix Analysis",
+  "description": "Inner product spaces, linear transformations, eigenvalues, eigenvectors, and matrix decompositions.",
+  "order": 2,
+  "fileOrder": [
+    "total notes single file.pdf"
+  ],
+  "documents": {
+    "total notes single file.pdf": {
+      "title": "Complete Linear Algebra & Matrix Analysis Notes",
+      "description": "Consolidated single-file master textbook and lecture compilation for Unit 2."
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "code": "PYTHON",
+  "name": "Python",
+  "altName": "Scientific Python & Data Applications",
+  "branches": ["DSA", "AI & IT"],
+  "description": "Python core syntax, data structures, OOP, NumPy numerical computing, Pandas data analysis, and scientific computing.",
+  "examDate": "30.10.2026",
+  "examTime": "02:00 PM – 04:00 PM",
+  "order": 5
+}

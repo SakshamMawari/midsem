@@ -1,0 +1,16 @@
+[
+  {
+    "id": "isc-gate-smashers",
+    "title": "Cryptography and Network Security - Gate Smashers",
+    "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0YXNd9K45Qo5",
+    "channel": "Gate Smashers",
+    "description": "Explanations of Classical Ciphers, DES, AES, RSA, Diffie-Hellman Key Exchange, and Digital Signatures."
+  },
+  {
+    "id": "isc-nptel",
+    "title": "NPTEL: Cryptography and Network Security",
+    "url": "https://www.youtube.com/playlist?list=PLbMVogVj5nJQZ32L2XwZ4oK74K9f6A2_3",
+    "channel": "NPTEL / IIT Kharagpur",
+    "description": "Formal mathematical foundations of cryptography, modular arithmetic, and security protocols."
+  }
+]

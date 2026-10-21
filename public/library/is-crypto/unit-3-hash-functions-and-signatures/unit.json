@@ -1,0 +1,5 @@
+{
+  "name": "Unit 3: Hash Functions & Digital Signatures",
+  "description": "Cryptographic hash functions, SHA-512, message authentication codes (HMAC), digital signatures, and public key infrastructure.",
+  "order": 3
+}

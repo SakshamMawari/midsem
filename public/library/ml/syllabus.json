@@ -1,0 +1,40 @@
+{
+  "courseCode": "ML",
+  "courseTitle": "Machine Learning",
+  "credits": "3-1-0",
+  "examPattern": "Mid-Sem: 2 Hours (30 Marks) | End-Sem: 3 Hours (50 Marks) | Assignments: 20 Marks",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Supervised Learning, Regression & Classification",
+      "topics": [
+        "Machine Learning Paradigms: Supervised, Unsupervised, Semi-supervised, Reinforcement Learning",
+        "Linear Regression: Hypothesis Representation, Mean Squared Error Cost Function, Batch & Stochastic Gradient Descent",
+        "Multiple Linear Regression, Normal Equation, and Feature Scaling / Mean Normalization",
+        "Overfitting and Underfitting: Bias-Variance Tradeoff, L1 Lasso and L2 Ridge Regularization",
+        "Logistic Regression: Sigmoid Function, Cross-Entropy Loss, Decision Boundaries, Multi-class Classification (One-vs-All)",
+        "Generative vs Discriminative Models, Linear Discriminant Analysis (LDA), and Naive Bayes Classifier"
+      ]
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Neural Networks, Deep Learning & Support Vector Machines",
+      "topics": [
+        "Biological Neuron vs Artificial Perceptron, Perceptron Learning Algorithm, XOR Problem",
+        "Multilayer Perceptron (MLP) Architecture: Hidden Layers, Universal Approximation Property",
+        "Activation Functions: Sigmoid, Tanh, Rectified Linear Unit (ReLU), Leaky ReLU, Softmax",
+        "Backpropagation Algorithm: Forward Propagation, Computational Graphs, Multivariate Chain Rule Derivations",
+        "Optimization Algorithms: Momentum, RMSProp, Adam, Mini-Batch SGD, Learning Rate Schedules",
+        "Support Vector Machines (SVM): Maximum Margin Hyperplane, Hard-Margin vs Soft-Margin (C parameter), Kernel Trick (Polynomial, RBF)"
+      ]
+    }
+  ],
+  "textbooks": [
+    "Tom M. Mitchell, 'Machine Learning', McGraw-Hill",
+    "Christopher M. Bishop, 'Pattern Recognition and Machine Learning', Springer"
+  ],
+  "references": [
+    "Kevin P. Murphy, 'Machine Learning: A Probabilistic Perspective', MIT Press",
+    "Ian Goodfellow, Yoshua Bengio, Aaron Courville, 'Deep Learning', MIT Press"
+  ]
+}

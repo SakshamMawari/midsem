@@ -1,0 +1,11 @@
+{
+  "name": "Unit 2 & 3: Association Rules & Advanced Mining",
+  "description": "Frequent pattern mining, Apriori algorithm, FP-Growth, clustering algorithms, and multidimensional visualization.",
+  "order": 2,
+  "documents": {
+    "Chapter 2 and 3.pdf": {
+      "title": "Chapter 2 & 3 - Association Analysis and Cluster Models",
+      "description": "Lecture slides and chapter textbook notes for units 2 and 3."
+    }
+  }
+}

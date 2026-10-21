@@ -1,0 +1,11 @@
+{
+  "name": "Unit 1: Data Mining & Visualization Foundations",
+  "description": "Introduction to data mining techniques, architecture, preprocessing, and exploratory visualization methods.",
+  "order": 1,
+  "documents": {
+    "Unit_1_Data_Mining_and_Visualization.pdf": {
+      "title": "Unit 1 - Data Mining and Visualization Lecture Notes",
+      "description": "Comprehensive reference document covering data mining concepts, pipelines, and visual analytics."
+    }
+  }
+}

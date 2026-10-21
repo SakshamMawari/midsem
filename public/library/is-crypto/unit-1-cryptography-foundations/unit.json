@@ -1,0 +1,5 @@
+{
+  "name": "Unit 1: Classical Cryptography & Ciphers",
+  "description": "Security attacks, services and mechanisms, substitution and transposition ciphers, modular arithmetic, and cryptanalysis.",
+  "order": 1
+}

@@ -1,0 +1,13 @@
+{
+  "code": "DMV",
+  "name": "DMV",
+  "altName": "Enterprise Java / Data Mining and Visualization",
+  "branches": [
+    "DSA",
+    "AI & IT"
+  ],
+  "description": "Data preprocessing, pattern evaluation, clustering, classification algorithms, and interactive visual data representations.",
+  "examDate": "26.10.2026",
+  "examTime": "02:00 PM – 04:00 PM",
+  "order": 1
+}

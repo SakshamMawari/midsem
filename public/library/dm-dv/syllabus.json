@@ -1,0 +1,49 @@
+{
+  "courseCode": "DMV",
+  "courseTitle": "Data Mining & Visualization",
+  "credits": "3-0-2",
+  "examPattern": "Mid-Sem: 2 Hours (30 Marks) | End-Sem: 3 Hours (50 Marks) | Lab: 20 Marks",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Data Mining Fundamentals & Preprocessing",
+      "topics": [
+        "Data Mining Architecture, Knowledge Discovery in Databases (KDD) Process",
+        "Data Cleaning: Handling Missing Values, Noisy Data, and Outlier Analysis",
+        "Data Integration, Transformation: Min-Max Normalization, Z-score, and Decimal Scaling",
+        "Data Reduction: Principal Component Analysis (PCA), Wavelet Transform, and Sampling",
+        "Exploratory Visual Data Analytics: Scatter Plots, Box Plots, and Parallel Coordinates"
+      ]
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Association Rule Mining & Pattern Discovery",
+      "topics": [
+        "Market Basket Analysis: Support, Confidence, and Lift Metrics",
+        "Apriori Algorithm: Candidate Generation, Pruning, and Efficiency Enhancements",
+        "FP-Growth Algorithm: Construction of Frequent Pattern Tree and Conditional Pattern Bases",
+        "Mining Multilevel and Multidimensional Association Rules",
+        "Constraint-Based Rule Mining"
+      ]
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Cluster Analysis & Advanced Data Visualization",
+      "topics": [
+        "Partitioning Methods: K-Means, K-Medoids (PAM), and CLARA",
+        "Hierarchical Methods: Agglomerative vs Divisive, BIRCH, and ROCK",
+        "Density-Based Methods: DBSCAN and OPTICS",
+        "Cluster Validation Metrics: Silhouette Coefficient and Davies-Bouldin Index",
+        "Interactive Dashboards, D3.js Visual Pipelines, and Multidimensional Mapping"
+      ]
+    }
+  ],
+  "textbooks": [
+    "Jiawei Han, Micheline Kamber, Jian Pei, 'Data Mining: Concepts and Techniques', 3rd Edition, Morgan Kaufmann",
+    "Tamara Munzner, 'Visualization Analysis and Design', CRC Press"
+  ],
+  "references": [
+    "Pang-Ning Tan, Michael Steinbach, Vipin Kumar, 'Introduction to Data Mining', Pearson",
+    "Colin Ware, 'Information Visualization: Perception for Design', Morgan Kaufmann"
+  ]
+}

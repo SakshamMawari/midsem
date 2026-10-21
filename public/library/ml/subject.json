@@ -1,0 +1,10 @@
+{
+  "code": "ML",
+  "name": "Machine Learning",
+  "altName": "Machine Learning & Neural Networks",
+  "branches": ["DSA", "CSE", "AI & IT"],
+  "description": "Supervised learning, linear/logistic regression, cost functions, gradient descent, SVMs, decision trees, and neural networks.",
+  "examDate": "02.11.2026",
+  "examTime": "10:00 AM – 12:00 NN",
+  "order": 6
+}

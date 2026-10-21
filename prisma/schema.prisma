@@ -1,0 +1,28 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+model Document {
+  id          String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  title       String
+  description String?
+  subject     String
+  category    String
+  filePath    String   @unique @map("file_path")
+  fileName    String   @map("file_name")
+  fileSize    BigInt   @map("file_size")
+  createdAt   DateTime @default(now()) @map("created_at") @db.Timestamptz(6)
+  updatedAt   DateTime @default(now()) @updatedAt @map("updated_at") @db.Timestamptz(6)
+
+  @@index([subject], map: "idx_documents_subject")
+  @@index([category], map: "idx_documents_category")
+  @@index([createdAt(sort: Desc)], map: "idx_documents_created_at")
+  @@index([subject, category], map: "idx_documents_subject_category")
+  @@map("documents")
+}

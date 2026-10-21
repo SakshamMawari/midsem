@@ -1,0 +1,50 @@
+{
+  "courseCode": "CRYPTO",
+  "courseTitle": "Cryptography",
+  "credits": "3-1-0",
+  "examPattern": "Mid-Sem: 2 Hours (30 Marks) | End-Sem: 3 Hours (50 Marks) | Assignments: 20 Marks",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Introduction to Cryptography & Classical Ciphers",
+      "topics": [
+        "Security Goals: Confidentiality, Integrity, Availability, Non-Repudiation, Authentication",
+        "OSI Security Architecture: Attacks (Passive vs Active), Services, and Mechanisms",
+        "Classical Substitution Techniques: Caesar Cipher, Monoalphabetic, Playfair, Hill Cipher, Polyalphabetic (Vigenère)",
+        "Transposition Techniques: Rail Fence, Columnar Transposition",
+        "Steganography vs Cryptography and Cryptanalysis Techniques"
+      ]
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Modular Arithmetic, Number Theory & Symmetric Ciphers",
+      "topics": [
+        "Modular Arithmetic: Divisibility, Euclidean and Extended Euclidean Algorithms",
+        "Prime Numbers: Fermat's and Euler's Theorems, Euler's Totient Function phi(n)",
+        "Chinese Remainder Theorem and Discrete Logarithms",
+        "Feistel Cipher Structure, Simplified DES (S-DES), and Data Encryption Standard (DES)",
+        "Advanced Encryption Standard (AES): S-Box, ShiftRows, MixColumns, AddRoundKey",
+        "Block Cipher Modes of Operation: ECB, CBC, CFB, OFB, CTR"
+      ]
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Asymmetric Cryptography, Hash Functions & Digital Signatures",
+      "topics": [
+        "Public-Key Cryptography Principles and Trapdoor One-Way Functions",
+        "RSA Cryptosystem: Key Generation, Encryption, Decryption, and Security Vulnerabilities",
+        "Diffie-Hellman Key Exchange Algorithm and Man-in-the-Middle Attack",
+        "Cryptographic Hash Functions: SHA-512, MD5, and Message Authentication Codes (HMAC)",
+        "Digital Signature Standard (DSS / DSA) and Public Key Infrastructure (PKI)"
+      ]
+    }
+  ],
+  "textbooks": [
+    "William Stallings, 'Cryptography and Network Security: Principles and Practice', 7th Edition, Pearson",
+    "Behrouz A. Forouzan, 'Cryptography and Network Security', McGraw Hill"
+  ],
+  "references": [
+    "Bruce Schneier, 'Applied Cryptography: Protocols, Algorithms, and Source Code in C', Wiley",
+    "Alfred J. Menezes, Paul C. van Oorschot, Scott A. Vanstone, 'Handbook of Applied Cryptography', CRC Press"
+  ]
+}

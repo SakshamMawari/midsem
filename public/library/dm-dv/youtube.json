@@ -1,0 +1,16 @@
+[
+  {
+    "id": "dmdv-gate-smashers",
+    "title": "Data Mining Complete Playlist - Gate Smashers",
+    "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiGSbI4c1fC8g-jWvNrnVl1-",
+    "channel": "Gate Smashers",
+    "description": "Clear conceptual explanations of Data Preprocessing, Apriori Algorithm, FP-Tree, and clustering."
+  },
+  {
+    "id": "dmdv-nptel",
+    "title": "NPTEL: Data Mining & Knowledge Discovery",
+    "url": "https://www.youtube.com/playlist?list=PLbMVogVj5nJS9S_jF_r4gWq3WlE7j2Gz4",
+    "channel": "NPTEL / IIT Kharagpur",
+    "description": "In-depth university curriculum covering association rule mining, decision trees, and cluster analysis."
+  }
+]

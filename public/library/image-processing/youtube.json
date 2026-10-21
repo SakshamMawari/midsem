@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ip-gate-smashers",
+    "title": "Digital Image Processing (DIP) Full Course - Gate Smashers",
+    "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiEImsVdsZhydaDC46Q4EPNA",
+    "channel": "Gate Smashers",
+    "description": "Comprehensive video series covering sampling, quantization, spatial filtering, histogram equalization, and morphology."
+  },
+  {
+    "id": "ip-nptel",
+    "title": "NPTEL: Digital Image Processing - Prof. P.K. Biswas",
+    "url": "https://www.youtube.com/playlist?list=PLbMVogVj5nJR1A2HhN_8Q3LhZJ5cE7X_Q",
+    "channel": "NPTEL / IIT Kharagpur",
+    "description": "Rigorous academic lectures on 2D Fourier transforms, frequency domain filtering, image restoration, and edge detection."
+  },
+  {
+    "id": "yt-1792584679174",
+    "title": "Mohan Bansal Guide",
+    "url": "https://youtube.com/playlist?list=PLZjlBaHNchvNBdT-zxD8axkLA4wvXFyDQ&si=hoxuEmtRDurHToH-",
+    "channel": "YouTube",
+    "description": "Image Processing (Lec 1-6, 13-14,17-21)"
+  }
+]

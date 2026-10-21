@@ -1,0 +1,5 @@
+{
+  "name": "Unit 2: Neural Networks & Deep Learning",
+  "description": "Perceptrons, multi-layer feedforward networks, activation functions, backpropagation algorithm, and loss optimization.",
+  "order": 2
+}

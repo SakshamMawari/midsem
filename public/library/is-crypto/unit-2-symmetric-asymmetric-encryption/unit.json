@@ -1,0 +1,5 @@
+{
+  "name": "Unit 2: Symmetric & Asymmetric Encryption",
+  "description": "Block ciphers, DES, 3DES, AES architecture, Feistel structure, Diffie-Hellman key exchange, and RSA algorithm.",
+  "order": 2
+}

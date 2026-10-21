@@ -1,0 +1,19 @@
+{
+  "name": "Unit 3: Two-Dimensional Random Variables & Regression",
+  "description": "Joint distributions, marginal and conditional probability distributions, covariance, Pearson correlation, and regression analysis.",
+  "order": 3,
+  "fileOrder": [
+    "twodimensional RV with assignment.pdf",
+    "correlation and regression full notes.pdf"
+  ],
+  "documents": {
+    "twodimensional RV with assignment.pdf": {
+      "title": "Two-Dimensional Random Variables with Assignment Problems",
+      "description": "Joint probability distributions, marginal PDFs, conditional distributions, independence, and graded assignment solutions."
+    },
+    "correlation and regression full notes.pdf": {
+      "title": "Correlation & Linear Regression Full Notes",
+      "description": "Covariance calculations, Pearson correlation coefficient, lines of regression, angle between regression lines, and standard error."
+    }
+  }
+}

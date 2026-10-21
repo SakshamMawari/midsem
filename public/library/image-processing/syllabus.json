@@ -1,0 +1,49 @@
+{
+  "courseCode": "IP",
+  "courseTitle": "Image Processing",
+  "credits": "3-0-2",
+  "examPattern": "Mid-Sem: 2 Hours (30 Marks) | End-Sem: 3 Hours (50 Marks) | Lab: 20 Marks",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Digital Image Fundamentals & Acquisition",
+      "topics": [
+        "Elements of Visual Perception: Eye Structure, Photopic vs Scotopic Vision, Brightness Adaptation",
+        "Light, Electromagnetic Spectrum, and Image Sensing & Acquisition Systems",
+        "Image Sampling and Quantization: Spatial Resolution, Intensity Level Resolution, Aliasing",
+        "Basic Relationships Between Pixels: Neighbors (4-neighbors, 8-neighbors, diagonal), Adjacency, Connectivity, and Distance Measures (Euclidean, City-Block, Chessboard)"
+      ]
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Spatial Filtering & Image Enhancement",
+      "topics": [
+        "Gray-Level Intensity Transformations: Negative, Logarithmic, Power-Law (Gamma) Transforms",
+        "Piecewise-Linear Transformations: Contrast Stretching, Gray-Level Slicing, Bit-Plane Slicing",
+        "Histogram Processing: Histogram Equalization, Histogram Specification (Matching), Local Enhancement",
+        "Spatial Filtering Fundamentals: Correlation vs Convolution, Smoothing Linear Filters (Box, Gaussian), Order-Statistic Filters (Median, Max, Min)",
+        "Sharpening Spatial Filters: First and Second Derivatives (Laplacian, Gradient, Sobel, Prewitt), Unsharp Masking, and Highboost Filtering"
+      ]
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Morphological Operations & Segmentation",
+      "topics": [
+        "Preliminaries: Sets in Mathematical Morphology, Reflection, Translation, Structuring Elements",
+        "Dilation and Erosion: Algebraic Properties, Dualities",
+        "Opening and Closing: Properties and Noise Filtering",
+        "Hit-or-Miss Transform, Boundary Extraction, Hole Filling, and Connected Components Extraction",
+        "Morphological Reconstruction, Thinning, Thickening, and Skeletons",
+        "Image Segmentation: Point, Line, and Edge Detection, Thresholding (Otsu's Method), Region Growing"
+      ]
+    }
+  ],
+  "textbooks": [
+    "Rafael C. Gonzalez, Richard E. Woods, 'Digital Image Processing', 4th Edition, Pearson Education",
+    "Anil K. Jain, 'Fundamentals of Digital Image Processing', Prentice Hall"
+  ],
+  "references": [
+    "William K. Pratt, 'Digital Image Processing', 4th Edition, John Wiley & Sons",
+    "S. Sridhar, 'Digital Image Processing', 2nd Edition, Oxford University Press"
+  ]
+}

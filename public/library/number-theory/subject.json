@@ -1,0 +1,10 @@
+{
+  "code": "NT",
+  "name": "Number Theory & Cryptography",
+  "altName": "Number Theory / Discrete Mathematics",
+  "branches": ["CSE"],
+  "description": "Divisibility, prime numbers, Euclidean algorithm, modular arithmetic, Fermat's Little Theorem, and Chinese Remainder Theorem.",
+  "examDate": "28.10.2026",
+  "examTime": "02:00 PM – 04:00 PM",
+  "order": 3
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Unit 3: Morphological Image Processing & Segmentation",
+  "description": "Erosion and dilation, opening and closing, hit-or-miss transform, boundary extraction, point and line detection, and thresholding.",
+  "order": 3
+}

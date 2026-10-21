@@ -1,0 +1,5 @@
+{
+  "name": "Unit 2: Spatial Filtering & Image Enhancement",
+  "description": "Histogram equalization, contrast stretching, linear and non-linear smoothing spatial filters, sharpening Laplacian and gradient filters.",
+  "order": 2
+}

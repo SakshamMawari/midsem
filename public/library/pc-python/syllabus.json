@@ -1,0 +1,40 @@
+{
+  "courseCode": "PYTHON",
+  "courseTitle": "Python",
+  "credits": "3-0-2",
+  "examPattern": "Mid-Sem: 2 Hours (30 Marks) | End-Sem: 3 Hours (50 Marks) | Practical/Lab: 20 Marks",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Core Python Syntax, Data Structures & NumPy",
+      "topics": [
+        "Python Execution Model, Dynamic Typing, Control Flow, and Scoping Rules (LEGB)",
+        "Built-in Data Structures: Lists, Tuples, Dictionaries, Sets - Complexity and Operations",
+        "Functions: Positional/Keyword Arguments, *args, **kwargs, Lambda Functions, Closures, Decorators",
+        "Object-Oriented Programming: Classes, Instances, Inheritance, Magic Methods, Polymorphism",
+        "NumPy N-Dimensional Arrays (ndarray): Creation, Indexing, Slicing, Reshaping, Strides",
+        "NumPy Vectorization, Broadcasting Rules, Universal Functions (ufunc), Linear Algebra (np.linalg)"
+      ]
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Pandas Data Analysis & Matplotlib Visualization",
+      "topics": [
+        "Pandas Series and DataFrame Fundamentals: Creation, Reading CSV/JSON/SQL Datasets",
+        "Data Indexing and Selection: loc vs iloc, Boolean Masking, MultiIndex",
+        "Data Cleaning: Handling Missing Values (isna, fillna, dropna), Duplicate Removal, String Methods",
+        "Group Operations: Split-Apply-Combine Pattern, Aggregation, Transformation, Pivot Tables",
+        "Matplotlib Architecture: Figure, Axes, Line Plots, Scatter Plots, Histograms, Subplots",
+        "Seaborn Statistical Data Visualization: Heatmaps, Pairplots, Boxplots, Violin Plots"
+      ]
+    }
+  ],
+  "textbooks": [
+    "Wes McKinney, 'Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter', 3rd Edition, O'Reilly",
+    "Mark Lutz, 'Learning Python', 5th Edition, O'Reilly Media"
+  ],
+  "references": [
+    "Jake VanderPlas, 'Python Data Science Handbook', O'Reilly Media",
+    "Luciano Ramalho, 'Fluent Python', 2nd Edition, O'Reilly Media"
+  ]
+}

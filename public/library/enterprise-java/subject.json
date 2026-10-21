@@ -1,0 +1,10 @@
+{
+  "code": "EJ",
+  "name": "Enterprise Java",
+  "altName": "Enterprise Java Architecture & J2EE",
+  "branches": ["CSE"],
+  "description": "Enterprise Java Beans, Spring framework, servlets, microservices, and distributed backend systems.",
+  "examDate": "26.10.2026",
+  "examTime": "02:00 PM – 04:00 PM",
+  "order": 1
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Unit 1: Supervised Learning & Optimization",
+  "description": "Linear and polynomial regression, normal equations, gradient descent variants, logistic regression, and regularization.",
+  "order": 1
+}

@@ -1,0 +1,49 @@
+{
+  "courseCode": "MDS",
+  "courseTitle": "Mathematics for Data Science",
+  "credits": "4-0-0",
+  "examPattern": "Mid-Sem: 2 Hours (30 Marks) | End-Sem: 3 Hours (50 Marks) | Continuous Evaluation: 20 Marks",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Vector Spaces and Subspaces",
+      "topics": [
+        "Definition of Fields, Field Axioms, and Euclidean Spaces",
+        "Vector Space Axioms over Real and Complex Fields",
+        "Subspaces: 3-Point Subspace Test, Linear Combinations, and Linear Span",
+        "Linear Dependence, Linear Independence, and Wronskian / Determinant Criteria",
+        "Basis and Dimension: Finite Dimensional Spaces, Extension of Basis, and Dimension Theorems"
+      ]
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Linear Transformations & Matrix Analysis",
+      "topics": [
+        "Linear Transformations, Kernel (Null Space), and Range (Column Space)",
+        "Rank-Nullity Theorem and Matrix Representation of Linear Operators",
+        "Inner Product Spaces, Cauchy-Schwarz Inequality, and Orthogonality",
+        "Orthogonal Projections, Gram-Schmidt Orthogonalization Process, and QR Decomposition",
+        "Eigenvalues, Eigenvectors, Diagonalization, and Singular Value Decomposition (SVD)"
+      ]
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Two-Dimensional Random Variables & Regression",
+      "topics": [
+        "Joint Probability Mass Functions (PMF) and Joint Probability Density Functions (PDF)",
+        "Marginal and Conditional Probability Distributions",
+        "Expectation, Covariance, Correlation Coefficient (Pearson), and Independence",
+        "Lines of Regression: Principle of Least Squares and Angle Between Regression Lines",
+        "Standard Error of Estimate and Regression Coefficients"
+      ]
+    }
+  ],
+  "textbooks": [
+    "Gilbert Strang, 'Linear Algebra and Its Applications', 5th Edition, Cengage Learning",
+    "Sheldon Ross, 'A First Course in Probability', 10th Edition, Pearson Education"
+  ],
+  "references": [
+    "David C. Lay, 'Linear Algebra and Its Applications', Pearson",
+    "Papoulis & Pillai, 'Probability, Random Variables and Stochastic Processes', McGraw Hill"
+  ]
+}
