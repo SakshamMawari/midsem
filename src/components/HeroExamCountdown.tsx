@@ -40,7 +40,7 @@ export default function HeroExamCountdown() {
   }, []);
 
   return (
-    <div className="hero-countdown-container" aria-label="Official Mid-Sem Exam Countdown">
+    <div className="hero-countdown-container" aria-label="Official Mid-Sem Exam Countdown" suppressHydrationWarning>
       {/* Top Banner Row */}
       <div className="hero-countdown-header">
         <div className="flex items-center gap-2.5 flex-wrap">
@@ -60,10 +60,10 @@ export default function HeroExamCountdown() {
       </div>
 
       {/* Large Digits Grid */}
-      <div className="hero-countdown-grid" role="timer" aria-live="off">
+      <div className="hero-countdown-grid" role="timer" aria-live="off" suppressHydrationWarning>
         {/* Days */}
         <div className="hero-clock-box">
-          <span className="hero-clock-digit">
+          <span className="hero-clock-digit" suppressHydrationWarning>
             {timeRemaining ? String(timeRemaining.days).padStart(2, "0") : "--"}
           </span>
           <span className="hero-clock-label">Days</span>
@@ -73,7 +73,7 @@ export default function HeroExamCountdown() {
 
         {/* Hours */}
         <div className="hero-clock-box">
-          <span className="hero-clock-digit">
+          <span className="hero-clock-digit" suppressHydrationWarning>
             {timeRemaining ? String(timeRemaining.hours).padStart(2, "0") : "--"}
           </span>
           <span className="hero-clock-label">Hours</span>
@@ -83,7 +83,7 @@ export default function HeroExamCountdown() {
 
         {/* Minutes */}
         <div className="hero-clock-box">
-          <span className="hero-clock-digit">
+          <span className="hero-clock-digit" suppressHydrationWarning>
             {timeRemaining ? String(timeRemaining.minutes).padStart(2, "0") : "--"}
           </span>
           <span className="hero-clock-label">Minutes</span>
@@ -93,7 +93,7 @@ export default function HeroExamCountdown() {
 
         {/* Seconds */}
         <div className="hero-clock-box hero-clock-box-accent">
-          <span className="hero-clock-digit">
+          <span className="hero-clock-digit" suppressHydrationWarning>
             {timeRemaining ? String(timeRemaining.seconds).padStart(2, "0") : "--"}
           </span>
           <span className="hero-clock-label">Seconds</span>

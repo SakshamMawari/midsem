@@ -178,7 +178,8 @@ export default function SearchBox({
           aria-expanded={isOpen && Boolean(normalized)}
           aria-controls="search-dropdown-list"
           autoComplete="off"
-          spellCheck="false"
+          spellCheck={false}
+          suppressHydrationWarning
         />
 
         {query && (

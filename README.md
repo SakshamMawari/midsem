@@ -163,6 +163,25 @@ vercel
 vercel --prod
 ```
 
+### Automated CI/CD via GitHub Actions
+
+This repository includes a production-ready workflow in [`.github/workflows/deploy.yml`](./.github/workflows/deploy.yml) that automatically runs quality gates and deploys to Vercel whenever changes are pushed.
+
+#### Workflow Stages:
+1. **Quality Checks (`quality-check`)**: Runs manifest validation (`npm run test:manifest`), ESLint (`npm run lint`), TypeScript checks (`npx tsc --noEmit`), and builds Next.js (`npm run build`).
+2. **Deploy to Vercel (`deploy`)**:
+   - Pushes to `main`: Prebuilds and deploys directly to **Production**.
+   - Pull Requests: Builds and deploys an isolated **Preview** environment with a live URL in the GitHub summary.
+
+#### Setting up GitHub Secrets:
+To connect your GitHub repository with Vercel, add these 3 secrets in GitHub under **Settings → Secrets and variables → Actions → New repository secret**:
+
+| Secret Name | How to Get It |
+|---|---|
+| `VERCEL_TOKEN` | Create a token at [vercel.com/account/tokens](https://vercel.com/account/tokens) |
+| `VERCEL_ORG_ID` | Run `npx vercel link` locally (found in `.vercel/project.json` as `orgId`), or in Vercel Dashboard under Team/Account Settings |
+| `VERCEL_PROJECT_ID` | Run `npx vercel link` locally (found in `.vercel/project.json` as `projectId`), or in Vercel Project Settings → General |
+
 ### Static Build Validation Commands
 
 Before pushing, you can verify your code and static pages:
