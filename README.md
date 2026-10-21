@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# midsem
-=======
 # Black-Themed Digital Study Library
 
 A clean, modern, responsive website that organizes educational PDF files by **Subjects → Units → PDFs**. The website serves as a digital study library where users can browse subjects, select syllabus units, and open PDF documents with a single click.
