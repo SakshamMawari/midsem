@@ -200,4 +200,3 @@ npm run build          # Create optimized production build
 | `NEXT_PUBLIC_SITE_URL` | `http://localhost:3000` | Canonical website URL used for metadata and OpenGraph tags. |
 | `NEXT_PUBLIC_PDF_BASE_URL` | `/library` | Base URL for static PDF files. Point to a CDN or S3 bucket if hosting large collections externally. |
 | `SITE_INDEXABLE` | `false` | Set to `true` to enable search engine indexing in robots.txt. |
->>>>>>> 40f1b72 (feat: initialize academic document library web application with Next.js and Supabase)
